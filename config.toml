@@ -1,0 +1,7 @@
+[grabber-config]
+download-type = "cbz" # Available options: image_dir, cbz 
+
+# [chainsaw-man] # This will be the string after the 'https://www.mangaread.org/manga/' part of the URL.
+# folder-name = "Chainsaw Man" # The name of the folder inside 'Downloads'.
+# start-chapter = 25 # Where to start downloading chapters - leave at 1 to download all.
+# end-chapter = 40 # Where to stop downloading chapters - leave at -1 to download to last.
