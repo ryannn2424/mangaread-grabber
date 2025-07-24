@@ -22,8 +22,8 @@ www.mangaread.org/manga/<u>chainsaw-man</u>/
 - `start-chapter`: The chapter # that you want to start downloading from
 - `end-chapter`: The chapter # that you want to stop downloading at
 
-[!TIP]
-You can use `-1` to select the latest chapter
+>[!TIP]
+>You can use `-1` to select the latest chapter
 
 An example config can be seen below:
 ``` toml
@@ -41,8 +41,8 @@ start-chapter = 10
 end-chapter = 50
 ```
 
-[!NOTE]
-All entries will be downloaded in parallel, speeding up your download times.
+>[!NOTE]
+>All entries will be downloaded in parallel, speeding up your download times.
 
 - After your config file is complete, simply run (whilst in your `venv`):
 ```
